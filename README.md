@@ -1,4 +1,4 @@
-# jupyternbclassicpymolpysnips
+as# jupyternbclassicpymolpysnips
 
 PyMOL Python snippets for the Classic Jupyter Notebook.
 
@@ -9,7 +9,7 @@ It is assumed that you have the nbextensions module already installed and the sn
 The snippets are in cascading pull-down menus.
 A preview of the selected snippet is display prior to hitting `enter` to insert the snippt in the current code cell.
 
-<p align="center"><img src="./images/snippetsMenu.png" alt="HTML5 Icon" style="width:606px;height:404px;"></p>
+<p align="center"><img src="./images/snippetsMenu.png" alt="HTML5 Icon" style="width:770px;height:996px;"></p>
 
 ## Installation and usage
 
@@ -20,4 +20,5 @@ A preview of the selected snippet is display prior to hitting `enter` to insert 
 - Select a snippet from the pymolpy menu edits in the nav bar. 
 
 
-##
+## Related repos
+
