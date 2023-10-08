@@ -1,6 +1,4 @@
-as# jupyternbclassicpymolpysnips
-
-PyMOL Python snippets for the Classic Jupyter Notebook.
+# PyMOL Python snippets for the Classic Jupyter Notebook.
 
 ## Features
 The 250 snippets are installed in the single JavaScript file, `custom.js`.
