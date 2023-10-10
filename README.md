@@ -20,3 +20,7 @@ A preview (see gray box below) of the selected snippet is displayed prior to hit
 
 ## Related repos
 
+## Note
+
+Some snippets depend on some pymolshortcuts.
+Add the [pymolshortcuts.py](https://github.com/MooersLab/pymolshortcuts) file to working working directory.
