@@ -1,3 +1,9 @@
+![Version](https://img.shields.io/static/v1?label=jupyternbclassicpymolpysnips&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
+![Version](https://img.shields.io/static/v1?label=bayesian-data-analysis-voice-in&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 # PyMOL Python snippets for the Classic Jupyter Notebook
 
 ## Features
