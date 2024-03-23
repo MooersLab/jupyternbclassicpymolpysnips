@@ -1,11 +1,11 @@
-# PyMOL Python snippets for the Classic Jupyter Notebook.
+# PyMOL Python snippets for the Classic Jupyter Notebook
 
 ## Features
 The 250 snippets are installed in the single JavaScript file, `custom.js`.
-It is assumed that you have the nbextensions module already installed and the snippets_menu extension activated.
+It is assumed you have the nbextensions module installed and the snippets_menu extension activated.
 
 The snippets are in cascading pull-down menus.
-A preview (see gray box below) of the selected snippet is displayed prior to hitting `enter` to insert the snippt in the current code cell.
+A preview (see the gray box below) of the selected snippet is displayed before you hit `enter` to insert it in the current code cell.
 
 <p align="center"><img src="./images/snippetsMenu.png" alt="HTML5 Icon" style="width:770px;height:996px;"></p>
 
